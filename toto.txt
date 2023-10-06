@@ -2,3 +2,7 @@ contenu du fichier toto.txt
 Ajout de contenu 
 ajout d'une nouvelle ligne
 Ajout de nouvelle contenu 
+autre ligne
+autre ligne
+autre ligne
+
