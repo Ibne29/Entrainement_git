@@ -1,7 +1,4 @@
 contenu du fichier toto.txt
-<<<<<<< HEAD
 Ajout de contenu 
 ajout d'une nouvelle ligne
-=======
 Ajout de nouvelle contenu 
->>>>>>> aa40af0c336c50eedb645b57819886af38708f4f
